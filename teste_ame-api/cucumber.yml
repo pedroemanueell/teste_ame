@@ -1,0 +1,5 @@
+---
+default: -p html_report
+ci: -p json_report
+html_report: --format pretty --format html --out=log/ame_teste.html
+json_report: --format pretty --format json --out=log/ame_teste.json
