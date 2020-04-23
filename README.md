@@ -7,8 +7,8 @@
     senha  inválida, email inválido entre outras funcionalidade.
 
 # Rodando o projeto
-    Para rodar o projeto, o primeiro a instalação do bundler, basta rodar o comando através do cmd:
-    gem install bundler
+    Para rodar o projeto, o primeiro passo é a instalação do bundler, basta rodar o comando através do cmd:
+    gem bundle install
     
     Após a instalação, será criado um arquivo chamado GemFile. Dentro do Gemfile será necessario colcar as bibliotecas utilizadas no projeto que são:
     
